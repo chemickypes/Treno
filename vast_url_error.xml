@@ -16,7 +16,7 @@
 <vmap:AdBreak timeOffset="00:00:15.000" breakType="linear" breakId="midroll-1">
 <vmap:AdSource id="midroll-1-ad-2" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
-<![CDATA[ https://pubads.g.doubleclick.net/gampad/ads?slotname=/21775744923/external/vmap_ad_samples&sz=640x480&ciu_szs=300x250&cust_params=sample_ar%3Dpremidpostpod&url=&unviewed_positiri/537.36,gzip(gfe)&vad_type=linear&vpos=midroll&pod=2&mridx=1&rmridx=1&ppos=2&min_ad_duration=0&max_ad_duration=30000&vrid=1270234&cmsid=496&video_doc_id=short_onecue&kfa=0&tfcd=0 ]]>
+<![CDATA[ https://raw.githubusercontent.com/chemickypes/Treno/master/vast_midroll_2.xml ]]>
 </vmap:AdTagURI>
 </vmap:AdSource>
 </vmap:AdBreak>
